@@ -49,8 +49,6 @@ Key configurations and services to be implemented:
 2.  **Clone this Repository:**
     ```bash
     git clone https://github.com/IbrahimHashhash/ENCS3320-Cisco-Packet-Tracer
-    cd ENCS3320-Cisco-Packet-Tracer
     ```
-3.  **Open the .pkt File:** Locate the `.pkt` file within the cloned repository (e.g., `[your-project-name].pkt`) and open it using Cisco Packet Tracer.
-4.  **Review the Report:** The technical report will be included in the repository (e.g., `Project_Report.pdf`) for detailed understanding of the design and implementation.
----
+3.  **Open the .pkt File:** Locate the `.pkt` file within the cloned repository 
+
